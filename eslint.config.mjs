@@ -6,7 +6,7 @@ export default defineConfig([
             "@typescript-eslint": tsPlugin,
         },
         rules: {
-            semi: "error",
+            "semi": "error",
             "prefer-const": "error",
             "no-var": "warn",
             "no-console": "warn",

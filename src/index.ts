@@ -1,1 +1,2 @@
-var gam = 0
+export { getChannelById } from "@utils/channels/getChannelById";
+
