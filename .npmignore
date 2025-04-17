@@ -1,0 +1,11 @@
+# Exclude test files and TypeScript source files
+src/
+
+# Exclude config and dev files
+eslint.config.mjs
+vitest.config.ts
+tsconfig.json
+
+# Exclude git-related files
+.git
+.gitignore
